@@ -193,10 +193,10 @@ xterm-addon-serialize@^0.5.0:
   resolved "https://registry.yarnpkg.com/xterm-addon-serialize/-/xterm-addon-serialize-0.5.0.tgz#b6967d573e8c231fbb58c06fdc86871ba1e7a4bc"
   integrity sha512-NueZvbBGQvWDNBhA02/ZkPDq2yFlCqvwy7XhYLqRWAsvjGYkqZg3Py9eoLw4j7+WIhuLK4czswUYa2ntwKC3QQ==
 
-xterm-addon-unicode11@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/xterm-addon-unicode11/-/xterm-addon-unicode11-0.2.0.tgz#9ed0c482b353908bba27778893ca80823382737c"
-  integrity sha512-rjFDItPc/IDoSiEnoDFwKroNwLD/7t9vYKENjrcKVZg5tgJuuUj8D4rZtP6iVCjSB1LTLYmUs4L/EmCqIyLR/Q==
+xterm-addon-unicode11@^0.3.0:
+  version "0.3.0"
+  resolved "https://registry.yarnpkg.com/xterm-addon-unicode11/-/xterm-addon-unicode11-0.3.0.tgz#e4435c3c91a5294a7eb8b79c380acbb28a659463"
+  integrity sha512-x5fHDZT2j9tlTlHnzPHt++9uKZ2kJ/lYQOj3L6xJA22xoJsS8UQRw/5YIFg2FUHqEAbV77Z1fZij/9NycMSH/A==
 
 xterm-addon-webgl@^0.11.0:
   version "0.11.1"
