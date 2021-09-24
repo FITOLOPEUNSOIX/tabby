@@ -5304,6 +5304,13 @@ node-abi@^2.19.2, node-abi@^2.30.0:
   dependencies:
     semver "^5.4.1"
 
+node-abi@^3.1.0:
+  version "3.1.0"
+  resolved "https://registry.yarnpkg.com/node-abi/-/node-abi-3.1.0.tgz#9560f38fbe2309e87c61f4f103c9d95e0f961c32"
+  integrity sha512-kVF+eIDzPPwPcJdoVhWboJvdCe+YF1+rkd7+LeYmA95179T0sVB5kKG8VADM/3sBnGWeAUBR8FzH+whlksJTrQ==
+  dependencies:
+    semver "^7.3.5"
+
 node-addon-api@^1.6.3:
   version "1.7.2"
   resolved "https://registry.npmjs.org/node-addon-api/-/node-addon-api-1.7.2.tgz"
