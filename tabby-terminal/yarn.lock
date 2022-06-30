@@ -188,10 +188,10 @@ xterm-addon-search@^0.8.0:
   resolved "https://registry.yarnpkg.com/xterm-addon-search/-/xterm-addon-search-0.8.0.tgz#e33eab918df7eac7e7baf95dd2b3d14133754881"
   integrity sha512-MPJGPVPpHRUw9cLIuqQbrVepmENMOybVUSxIALz5h1ryyQBrVqVujq2hL5aroX5/dZJoHx9lGHQTVLQ07SKgKA==
 
-xterm-addon-serialize@^0.5.0:
-  version "0.5.0"
-  resolved "https://registry.yarnpkg.com/xterm-addon-serialize/-/xterm-addon-serialize-0.5.0.tgz#b6967d573e8c231fbb58c06fdc86871ba1e7a4bc"
-  integrity sha512-NueZvbBGQvWDNBhA02/ZkPDq2yFlCqvwy7XhYLqRWAsvjGYkqZg3Py9eoLw4j7+WIhuLK4czswUYa2ntwKC3QQ==
+xterm-addon-serialize@^0.7.0:
+  version "0.7.0"
+  resolved "https://registry.yarnpkg.com/xterm-addon-serialize/-/xterm-addon-serialize-0.7.0.tgz#cc7ef78972c8425b81dd6ae0a76824ce033d1e5f"
+  integrity sha512-ZfZ4Zj4uTEBFnUA0exipDGZ14jfiWLCov7gIt2OwIjQEz2ey8ic5kL/cxYz5antNz8/hTSA2qZcyA6VyyQASOQ==
 
 xterm-addon-unicode11@^0.2.0:
   version "0.2.0"
